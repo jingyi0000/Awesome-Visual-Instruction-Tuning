@@ -27,6 +27,44 @@ If you find our work useful in your research, please consider citing:
 
 ## Menu
 
+## Menu
+- [Datasets](#datasets)
+  - [Datasets for Visual Instruction Tuning](#datasets-for-visual-instruction-tuning)
+  - [Datasets for Instruction-tuned Model Evaluation](#datasets-for-instruction-tuned-model-evaluation)
+- [Visual Instruction Tuning Methods](#visual-instruction-tuning-methods)
+  - [Instruction-based Image Learning](#instruction-based-image-learning)
+    - [Instruction-based Image Learning for Discriminative Tasks](#instruction-based-image-learning-for-discriminative-tasks)
+    - [Instruction-based Image Learning for Generative Tasks](#instruction-based-image-learning-for-generative-tasks)
+    - [Instruction-based Image Learning for Complex Reasoning Tasks](#instruction-based-image-learning-for-complex-reasoning-tasks)
+  - [Instruction-based Video Learning](#instruction-based-video-learning)
+  - [Instruction-based 3D Vision Learning](#instruction-based-3d-vision-learning)
+  - [Instruction-based Medical Vision Learning](#instruction-based-medical-vision-learning)
+  - [Instruction-based Document Vision Learning](#instruction-based-document-vision-learning)
+
+
+## Datasets
+
+### Datasets for Visual Instruction Tuning
+
+### Datasets for Instruction-tuned Model Evaluation
+
+## Visual Instruction Tuning Methods
+
+### Instruction-based Image Learning
+
+#### Instruction-based Image Learning for Discriminative Tasks
+#### Instruction-based Image Learning for Generative Tasks
+#### Instruction-based Image Learning for Complex Reasoning Tasks
+
+### Instruction-based Video Learning
+
+### Instruction-based 3D Vision Learning
+
+### Instruction-based Medical Vision Learning
+
+### Instruction-based Document Vision Learning
+
+
 
 
 
