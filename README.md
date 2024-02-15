@@ -1,6 +1,6 @@
 ## Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey
 
-<img src="./images/overview.png" width="96%" height="96%">
+<img src="./overview.png" width="96%" height="96%">
 
 This is the repository of **Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey**, a systematic review of visual instruction tuning. For details, please refer to:
 
