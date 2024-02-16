@@ -29,8 +29,6 @@ If you find our work useful in your research, please consider citing:
 ```
 
 ## Menu
-
-## Menu
 - [Datasets](#datasets)
   - [Datasets for Visual Instruction Tuning](#datasets-for-visual-instruction-tuning)
   - [Datasets for Instruction-tuned Model Evaluation](#datasets-for-instruction-tuned-model-evaluation)
